@@ -10,7 +10,7 @@ body{
    width: 20%;
 }
 .cabeçalho{
-   background-color:#383D58;
+   background-color:#880707;
    color:white;
    display:flex;
    justify-content: space-around;
@@ -21,4 +21,15 @@ body{
    margin: 0 16px;
    padding:24px 0;
    font-size: 24px;
+}
+.site {  
+   background-image: linear-gradient(#880707,#870088);
+   display:flex;
+   justify-content: center;
+   align-items:center;
+   padding: 24px;
+}
+.texto{
+    width: 26%;
+    padding: 44px;
 }
