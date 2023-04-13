@@ -5,6 +5,7 @@
 body{
    background-color:#05c715;
    color:white;
+   font-family: 'Ubuntu', sans-serif;
 }
 .cabeçalho-imagem{
    width: 20%;
@@ -32,4 +33,42 @@ body{
 .texto{
     width: 26%;
     padding: 44px;
+    font-size: 25px;
+}
+.recomendacao{
+   display:flex;
+   justify-content: center;
+   align-items:center;
+   padding: 24px;
+
+}
+
+.estudante-titulo{
+   text-align: center;
+   font-size: 36px;
+   padding: 13px 0;
+}
+.the-div{
+   display:inline-block;
+   margin: 0 16px;
+   padding:24px 0;
+}
+.texto-serie{
+   font-size: 28px;
+   display:inline-block;
+   margin: 0 16px;
+   padding:24px 0;
+
+}
+.tube{
+  width: 20%; 
+}
+.segundo{
+   display:flex;
+   justify-content: center;
+   align-items:center;
+   padding: 25px;
+}
+.estudante-imagem{
+     width: 60%;
 }
