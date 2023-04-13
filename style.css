@@ -69,6 +69,14 @@ body{
    align-items:center;
    padding: 25px;
 }
-.estudante-imagem{
-     width: 60%;
+.estudante-imagem{ 
+     width: 60%; 
+}
+.rodape{
+   backgroud-color:#669016;
+   text-aling:center;
+}
+.roda-imag{
+   height:55px;
+   padding:11px 0;
 }
